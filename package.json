@@ -1,23 +1,6 @@
 {
   "dependencies": {
-    "json": "^10.0.0"
-  },
-  "name": "notetaker",
-  "description": "## Description",
-  "version": "1.0.0",
-  "main": "index.js",
-  "devDependencies": {},
-  "scripts": {
-    "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mitchmathias/NoteTaker.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/mitchmathias/NoteTaker/issues"
-  },
-  "homepage": "https://github.com/mitchmathias/NoteTaker#readme"
+    "express": "^4.17.1",
+    "jquery": "^3.5.1"
+  }
 }
